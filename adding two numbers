@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -n "Enter the first number: "
-read num1
+read num4
 echo -n "Enter the second number: "
 read num2
 add=$((num1 + num2))
